@@ -15,11 +15,11 @@ import java.util.Arrays;
 public class Validator {
     
     public static void main (String[] args) {
-        validateRangeBetweenZeroes();
-        validateRemoveInRange();
-        validateStutter();
-        validateRemoveShorterStrings();
-        validateMarkLength4();
+        //validateRangeBetweenZeroes();
+        //validateRemoveInRange();
+        //validateStutter();
+        //validateRemoveShorterStrings();
+        //validateMarkLength4();
         validateReverse3();
         
     }
